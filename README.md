@@ -64,7 +64,6 @@ Sidebar indicates profit/loss percentage on 24 hour basis
 Crypto Exchange: allows users to convert different crypto currencies into other currencies
 Shows major currency portfolio in pie chart
 
-
 ## Installation
 Install my-project with npm
 
@@ -72,9 +71,9 @@ npm install Cryptocurrency-Dashboard
 cd Cryptocurrency-Dashboard
 npm install react-redux
 # or
-yarn add react-redux
+npm add react-redux
 npm install axios
-yarn add react-chartjs-2 chart.js
+npm add react-chartjs-2 chart.js
 # or
 npm i react-chartjs-2 chart.js
 
