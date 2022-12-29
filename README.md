@@ -89,4 +89,6 @@ https://youtu.be/cHeUhTuqikE
 React, Redux , Tailwind,DOM,Javascript, HTML, CSS...
 
 ## Screenshot
-![App Screenshot](https://drive.google.com/file/d/1LsUpEfGDV0lvzogQYzcL8SrWbq9LgwyC/view?usp=sharing)
+![Crypto-Dashboard1](https://user-images.githubusercontent.com/110160515/209939781-a3e75875-d86d-4aad-97d8-e46bf84b3d26.png)
+
+
