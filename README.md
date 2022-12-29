@@ -89,7 +89,7 @@ https://youtu.be/cHeUhTuqikE
 React, Redux , Tailwind,DOM,Javascript, HTML, CSS...
 
 ## Screenshot
-![Screenshot (5)](https://user-images.githubusercontent.com/110160515/209942130-0486adc3-ac16-4c87-97fd-db97286ab15b.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/110160515/209942361-845bd6a1-2aa3-45e7-a069-4079a5cdcf55.png)
 
 
 
