@@ -11,15 +11,13 @@ import { SearchBar } from "./SearchBar";
 // Dashboard is main component;
 function Dashboard() {
   const dispatch = useDispatch();
-  const data = useSelector((state) => state.default);
   const currencyData = useSelector((state) => state.selectCurrency);
   const currency = currencyData.currency || "usd";
 
 
   useEffect(() => {
     dispatch(fetchCoins(currency));
-    // }
-  }, [currency]);
+  }, [currency,dispatch]);
 
   return (
     <div className=" bg-blue-100">
