@@ -31,16 +31,16 @@ export default function MultiSelect({ options , onItemClick, values}) {
                             options.sort((a,b) => {return values.includes(a.id) ? -1 : 1 }).map((el, i) => (
                                 <Menu.Item key={i}>
                                     {({ active }) => (
-                                        <a
+                                        <button
                                             onClick={() => onItemClick(el.id)}
                                             // href="#"
                                             className={classNames(
                                                 values.includes(el.id) ? 'bg-gray-100 text-gray-900' : 'text-gray-700',
-                                                'block px-4 py-2 text-sm mb-1'
+                                                'block px-4 py-2 text-sm mb-1 w-full'
                                             )}
                                         >
                                             {el.name}
-                                        </a>
+                                        </button>
                                     )}
                                 </Menu.Item>
                             ))
