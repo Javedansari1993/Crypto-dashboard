@@ -90,5 +90,5 @@ React, Redux , Tailwind,DOM,Javascript, HTML, CSS...
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1LsUpEfGDV0lvzogQYzcL8SrWbq9LgwyC/view)
-![plot]([./directory_1/directory_2/.../directory_n/plot.png](https://drive.google.com/file/d/1LsUpEfGDV0lvzogQYzcL8SrWbq9LgwyC/view))
+![App Screenshot](https://drive.google.com/file/d/1LsUpEfGDV0lvzogQYzcL8SrWbq9LgwyC/view?usp=sharing)
+https://drive.google.com/file/d/1LsUpEfGDV0lvzogQYzcL8SrWbq9LgwyC/view?usp=sharing
