@@ -158,6 +158,7 @@ export const CryptoChart = () => {
                 {day.label}
               </button>
             ))}
+            <img src="https://cdn-icons-png.flaticon.com/512/55/55281.png" alt="React" style={{width:20}}/>
           </div>
           <div className="flex justify-center  items-center">
             <div className="mr-4">
