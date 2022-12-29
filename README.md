@@ -88,6 +88,9 @@ https://youtu.be/cHeUhTuqikE
 ## 🛠 Skills
 React, Redux , Tailwind,DOM,Javascript, HTML, CSS...
 
-## Screenshots
+## Screenshot
+![Screenshot (5)](https://user-images.githubusercontent.com/110160515/209942361-845bd6a1-2aa3-45e7-a069-4079a5cdcf55.png)
 
-![App Screenshot](https://drive.google.com/file/d/1LsUpEfGDV0lvzogQYzcL8SrWbq9LgwyC/view?usp=sharing)
+
+
+
